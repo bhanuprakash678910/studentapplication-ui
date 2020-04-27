@@ -34,11 +34,11 @@
   </build>
   <distributionManagement>
   <repository>
-    <id>packagecloud-raghudevops34</id>
+    <id>packagecloud-bhanudevops34</id>
     <url>packagecloud+https://packagecloud.io/test-user/myrepo</url>
   </repository>
   <snapshotRepository>
-    <id>packagecloud-raghudevops34</id>
+    <id>packagecloud-bhanudevops34</id>
     <url>packagecloud+https://packagecloud.io/test-user/myrepo</url>
   </snapshotRepository>
 </distributionManagement>
